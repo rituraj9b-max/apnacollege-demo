@@ -2,5 +2,5 @@
 
 This is my first Git Repository.
 <br>
-Author - Ritu (Apna College)
+Author - Ritu Raj
 
